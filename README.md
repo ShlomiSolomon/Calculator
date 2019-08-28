@@ -1,10 +1,16 @@
 # Calculator
 Linux\C real-time TCP calculator in socket programming using client-srever 
 
-How to run :
+**How to run**
+
+
 The Server side :
+
 Open terminal for the server and type line :
 gcc server.c -o server 
+
+
+The client side :
 
 Open another terminal for the client and type :
 gcc client.c -o client
